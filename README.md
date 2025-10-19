@@ -1,4 +1,4 @@
-# SkillCraft Technology Internship – Java Projects
+# SkillCraft Technology Internship –  Tasks
 
 This repository contains the **four projects** I completed as part of my **SkillCraft Technology Software Development Internship**.  
 The projects focus on **Java programming**, **GUI development**, **problem-solving**, and **data handling**.
